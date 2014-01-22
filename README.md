@@ -1,0 +1,4 @@
+hopverkefni1a
+=============
+
+Fjármálalæsi
