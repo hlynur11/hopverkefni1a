@@ -4,3 +4,5 @@ def dollarkronur(kr):
     print(kr)
 
 dollarkronur([10, 25.3]) 
+
+prufa breytingu
