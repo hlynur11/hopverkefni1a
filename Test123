@@ -1,0 +1,6 @@
+def dollarkronur(kr):
+    usd = 115.61
+    kr[:] =  [int(round(usd*x)) for x in kr]
+    print(kr)
+
+dollarkronur([10, 25.3]) 
